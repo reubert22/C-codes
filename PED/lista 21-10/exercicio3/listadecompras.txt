@@ -1,0 +1,12 @@
+sabao
+5
+1.00
+lampadas
+10
+16.00
+acucar
+1
+10.00
+teclado
+2
+35.00

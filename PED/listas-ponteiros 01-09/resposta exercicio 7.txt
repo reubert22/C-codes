@@ -1,0 +1,3 @@
+a) o ponteiro *p ja foi declarado, e como queremos atribuir x a ele, devemos colocar portanto assim: p=x ou p=&x(mais viável, pois está recebendo o endereçamento da variavel x);
+
+b)Não podemos decrementar um vetor do jeito com que segue no programa: vet--;

@@ -1,0 +1,16 @@
+a - FALSO , com exceção a ponteiros
+b - VERDADEIRO
+c - FALSO
+d - VERDADEIRO
+e - VERDADEIRO
+f - FALSO
+g - FALSO
+h - VERDADEIRO
+i - VERDADEIRO
+j - FALSO
+k - VERDADEIRO
+l - VERDADEIRO
+m - FALSO
+n - FALSO
+o - VERDADEIRO
+p - FALSO

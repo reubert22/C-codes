@@ -1,0 +1,4 @@
+a - não temos o anterior ao nome, que define o tipo de função, se é void,int,float etc..
+b - não retornamos valores em uma função do tipo void
+c - duas funções com o mesmo nome não podem no mesmo programa
+d - o segundo parametro tem que vir obrigatóriamente, assim como os demais , acompanhado de seu tipo. 
